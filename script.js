@@ -4,10 +4,10 @@ const code = document.querySelector('.code');
 
 const el = `<pre>
 // HTML
-div class "square">
+div class "persegi-panjang">
 
 // CSS
-.square {
+.persegi-panjang {
     width: 150px;
     aspect-ratio: 2;
     background-color: red;
